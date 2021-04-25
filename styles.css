@@ -1,0 +1,131 @@
+#title {
+  background-color: #f21170;
+  padding-bottom: 5%;
+
+}
+
+nav {
+  padding: 3% 5%;
+  background-color: #72147e;
+}
+
+#iphone {
+  text-align: center;
+  padding-top: 3%;
+}
+
+.container-fluid {
+  padding-top: 1%;
+}
+
+#bodysection1 {
+  padding-top: 10%;
+}
+
+#navbar-brand {
+  font-size: 40px;
+}
+
+.nav-item {
+  padding: 0 3%;
+  font-size: 1.25rem;
+}
+
+.welcome {
+  font-size: 5rem;
+  color: white;
+  padding-bottom: 7%;
+  padding-top: 5%;
+  text-align: left;
+  padding-left: 10%;
+}
+
+#features {
+  text-align: center;
+  font-size: 2rem;
+  background-color: #fff;
+  padding: 12% 0;
+
+}
+
+#icon {
+  color: #ff5200;
+  padding-bottom: 10px;
+}
+
+#icon:hover {
+  color: #f21170;
+}
+
+i {
+  padding: 0 5px 0 0;
+}
+
+.container {
+  text-align: center;
+}
+
+#testimonials {
+  background-color: #ff5200;
+  text-align: center;
+  padding: 7% 0 0;
+  color: #fff;
+}
+
+.testimonial-image {
+  border-radius: 50%;
+  width: 10%;
+}
+
+.testi {
+  font-size: 3rem;
+  margin: 0 7%;
+}
+
+.carousel-item {
+  margin: 5% 0;
+}
+.press-img{
+  width: 20%;
+  padding: 3%;
+}
+#press{
+  background-color: #ff5200;
+  text-align: center;
+}
+#pricing{
+  padding: 5% 10%;
+  text-align: center;
+}
+.pricing-top{
+  padding: 3% 0 5%;
+  font-size: 3rem;
+}
+.card-footerd{
+  padding: 0 0 3%;
+}
+.card-text-center{
+  padding-bottom: 3%;
+}
+#cta{
+  text-align: center;
+  background-color:#f21170;
+  padding: 6% 0;
+  color: #fff;
+  font-size: 3rem;
+}
+.vta{
+  font-size: 3rem;
+  padding: 0 0 3%;
+}
+#footer{
+  background-color: #72147e;
+  text-align: center;
+  color: #fff;
+  bottom: 0;
+  padding: 2%;
+
+}
+.copy{
+  margin: 0
+}
